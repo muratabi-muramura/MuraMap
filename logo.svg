@@ -53,23 +53,26 @@
     <div class="container">
 
       <h1>404</h1>
-      <p><strong>There isn't a GitHub Pages site here.</strong></p>
+      <p><strong>File not found</strong></p>
 
       <p>
-        Did you mean to visit <a href="//muratabi-muramura.github.io/">muratabi-muramura.github.io</a>?
-        Please note that this site belongs to a GitHub user and is
-        <strong>not an official GitHub site</strong>.
+        The site configured at this address does not
+        contain the requested file.
       </p>
 
       <p>
-        If you're the owner of this site, please update your links to use <code>muratabi-muramura.github.io</code> instead.
-        Subdomains of <code>github.com</code> <a href="https://github.blog/changelog/2021-01-29-github-pages-will-stop-redirecting-pages-sites-from-github-com-after-april-15-2021/">are deprecated</a> for GitHub Pages.
-        They will not redirect to <code>github.io</code> after April 15, 2021.
+        If this is your site, make sure that the filename case matches the URL.<br>
+        For root URLs (like <code>http://example.com/</code>) you must provide an
+        <code>index.html</code> file.
+      </p>
+
+      <p>
+        <a href="https://help.github.com/pages/">Read the full documentation</a>
+        for more information about using <strong>GitHub Pages</strong>.
       </p>
 
       <div id="suggestions">
-        <a href="https://github.com/contact">Contact Support</a> &mdash;
-        <a href="https://www.githubstatus.com">GitHub Status</a> &mdash;
+        <a href="https://githubstatus.com">GitHub Status</a> &mdash;
         <a href="https://twitter.com/githubstatus">@githubstatus</a>
       </div>
 
