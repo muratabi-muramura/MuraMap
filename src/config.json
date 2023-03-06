@@ -2,7 +2,7 @@
   "title": "MuraMap",
   "description": "2023 Camino de Santiago",
   "form_url": "",
-  "logo_image_url": "https://github.com/muratabi-muramura/MuraMap/blob/master/public/muratabi-icon.svg",
+  "logo_image_url": "https://muratabi-muramura.github.com/MuraMap/public/muratabi-icon.svg",
   "background_image_url": "",
   "primary_color": "#ffffff",
   "orderby": "distance"
