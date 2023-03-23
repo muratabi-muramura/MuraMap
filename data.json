@@ -1,27 +1,7 @@
 {
-  "range": "'スポットデータ'!A1:J10000",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "タイムスタンプ",
-      "カテゴリ",
-      "画像",
-      "緯度",
-      "経度",
-      "スポット名",
-      "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト"
-    ],
-    [
-      "3/23/2023 1:20:00",
-      "2023Camino",
-      "",
-      "45.042827",
-      "3.892475",
-      "Gare SNCF du Puy-en-Velay",
-      "Place Maréchal Leclerc,Le Puy-en-Velay,Auvergne-Rhône-Alpes,France,FR,43000"
-    ]
-  ]
+  "error": {
+    "code": 503,
+    "message": "The service is currently unavailable.",
+    "status": "UNAVAILABLE"
+  }
 }
